@@ -27,7 +27,7 @@ Rotas disponíveis:
 
 Por ser uma versão totalmente estática, os votos ficam salvos apenas no navegador/dispositivo em que a página foi aberta. Para uma votação pública real entre vários usuários, será necessário conectar um backend como Firebase, Supabase, uma API própria ou outro banco online.
 
-## Estrutura
+## Estruturas
 
 ```txt
 index.html
